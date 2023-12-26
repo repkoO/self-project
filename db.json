@@ -1,0 +1,43 @@
+[
+    {
+        "name": "CSS Bayan",
+        "description": "Базовый проект по разработке выпадающего меню без javascript.",
+        "img": "./assets/bayan.png",
+        "link": "https://repkoo.github.io/virtual-keyboard/",
+        "id": 1
+    },
+    {
+        "name": "Coffee Project",
+        "description": "Проект двухстраничного лендинг сайта с поддержкой responsive дизайна и чистым javascript функционалом.",
+        "img": "./assets/coffee.png",
+        "id": 2
+    },
+    {
+        "name": "Virtual Keyboard",
+        "description": "Виртуальные клавиатура на чистом javascript",
+        "img": "./assets/keyboard.png",
+        "link": "https://repkoo.github.io/virtual-keyboard/",
+        "id": 3
+    },
+    {
+        "name": "Green Corp Landing",
+        "description": "Самый первый лендинг с canvas-анимацией :-)",
+        "img": "./assets/lending.png",
+        "link": "https://repkoo.github.io/green-corp-landing/",
+        "id": 4
+    },
+    {
+        "name": "Library Project",
+        "description": "Лендинг с поддержкой responsive дизайна",
+        "img": "./assets/library.png",
+        "link": "link",
+        "id": 5
+    },
+    {
+        "name": "Store",
+        "description": "Основной проект на React с использованием Redux, Formik, Yup и основными хуками библиотеки.",
+        "img": "./assets/store.png",
+        "link": "link",
+        "id": 6
+    }
+]
