@@ -1,6 +1,6 @@
 
 html {
-  scroll-behavior: smooth; 
+  scroll-behavior: smooth;
 }
 
 * {
@@ -23,7 +23,7 @@ h1 {
   text-align: center;
 }
 
-h2 { 
+h2 {
   text-align: center;
   padding-bottom: 10px;
   font-size: 20px;
@@ -218,7 +218,7 @@ main h1 {
   text-decoration: underline;
   color: white;
   cursor: pointer;
-  
+
 }
 
 .modal__close {
@@ -242,5 +242,15 @@ main h1 {
 @media (hover: hover) {
   .img__item:hover img {
     transform: scale(1.0);
-  }  
+  }
+}
+
+@media screen and (max-width: 940px) {
+  .modal__wrapper {
+    justify-content: center;
+  }
+
+  .modal__container {
+    flex-direction: column;
+  }
 }

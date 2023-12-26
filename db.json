@@ -10,6 +10,7 @@
         "name": "Coffee Project",
         "description": "Проект двухстраничного лендинг сайта с поддержкой responsive дизайна и чистым javascript функционалом.",
         "img": "./assets/coffee.png",
+        "link": "https://repkoo.github.io/coffee-house/coffee-house/pages/main/",
         "id": 2
     },
     {
