@@ -15,7 +15,7 @@
     },
     {
         "name": "Virtual Keyboard",
-        "description": "Виртуальные клавиатура на javascript.",
+        "description": "Виртуальная клавиатура на javascript.",
         "img": "./assets/keyboard.png",
         "link": "https://repkoo.github.io/virtual-keyboard/",
         "id": 3

@@ -28,7 +28,7 @@ const getData = async () => {
    const data = await res.json();
    cardList.forEach((cardElement, cardIndex) => {
     cardElement.addEventListener('click', (e) => {
-        data.filter((dataElement, dataIndex) => {
+        const dataList = data.filter((dataElement, dataIndex) => {
             if (cardIndex === dataIndex)
                 modalWrapper.insertAdjacentHTML('afterbegin', generateModalWindow(dataElement))
                 fixedOverlay.classList.remove('hidden');
