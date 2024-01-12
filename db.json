@@ -1,5 +1,12 @@
 [
     {
+        "name": "Store",
+        "description": "Основной проект на React с использованием Redux, Formik, Yup и основными хуками библиотеки.",
+        "img": "./assets/store.png",
+        "link": "https://github.com/repkoO/store/tree/changes/src",
+        "id": 6
+    },
+    {
         "name": "CSS Bayan",
         "description": "Базовый проект по разработке выпадающего меню без javascript.",
         "img": "./assets/bayan.png",
@@ -8,14 +15,14 @@
     },
     {
         "name": "Coffee Project",
-        "description": "Проект двухстраничного лендинг сайта с поддержкой responsive дизайна и javascript функционалом.",
+        "description": "Проект двухстраничного лендинг сайта с поддержкой responsive дизайна и чистым javascript функционалом.",
         "img": "./assets/coffee.png",
         "link": "https://repkoo.github.io/coffee-house/coffee-house/pages/main/",
         "id": 2
     },
     {
         "name": "Virtual Keyboard",
-        "description": "Виртуальная клавиатура на javascript.",
+        "description": "Виртуальные клавиатура на чистом javascript",
         "img": "./assets/keyboard.png",
         "link": "https://repkoo.github.io/virtual-keyboard/",
         "id": 3
@@ -29,16 +36,9 @@
     },
     {
         "name": "Library Project",
-        "description": "Лендинг с поддержкой responsive дизайна.",
+        "description": "Лендинг с поддержкой responsive дизайна",
         "img": "./assets/library.png",
         "link": "https://repkoo.github.io/library/library/",
         "id": 5
-    },
-    {
-        "name": "Store",
-        "description": "Основной проект на React с использованием Redux, Formik, Yup и основными хуками библиотеки.",
-        "img": "./assets/store.png",
-        "link": "https://github.com/repkoO/store/tree/changes/src",
-        "id": 6
     }
 ]
