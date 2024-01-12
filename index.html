@@ -4,36 +4,50 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>My projects</title>
+    <title>My Projects</title>
     <script src="./script.js" defer></script>
   </head>
   <body>
-    <main>
+    <header>
+      <h1>Привет, я <span class="text__color">Медведев Кирилл</span>. <br> Frontend-разработчик из Калининграда.</h1>
+      <div class="link__project">
+        <a href="#project" class="my__projects">Мои проекты</a>
+        <svg xmlns="http://www.w3.org/2000/svg" width="25px" height="25px" viewBox="0 0 24 24" fill="none" class="svg__project">
+          <path d="M6 12H18M18 12L13 7M18 12L13 17" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </div>
+    </header>
+    <main id="project">
       <div class="fixed__overlay hidden">
         <div class="modal__wrapper">
         </div>
       </div>
-      <h1>My Projects</h1>
-        <section id="project_example">
+        <section id="project_example" class="">
           <div class="project_example-container">
             <div class="project__example-wrapper">
               <div class="img__item-container">
+                <p>Store</p>
+                <div class="img__item" data-card_id="6">
+                  <img src="./assets/store.png">
+                </div>
+              </div>
+              <div class="img__item-container">
+                <p>CSS Bayan</p>
                 <div class="img__item hover__down-css_bayan" data-card_id="1">
                   <img src="./assets/bayan.png">
                 </div>
-                <p>CSS Bayan</p>
               </div>
               <div class="img__item-container">
+                <p>Coffee Project</p>
                 <div class="img__item" data-card_id="2">
                   <img src="./assets/coffee.png">
                 </div>
-                <p>Coffee Project</p>
               </div>
               <div class="img__item-container">
+                <p>Virtual Keyboard</p>
                 <div class="img__item" data-card_id="3">
                   <img src="./assets/keyboard.png">
                 </div>
-                <p>Virtual Keyboard</p>
               </div>
               <div class="img__item-container">
                 <p>Green Corp Landing</p>
@@ -45,12 +59,6 @@
                 <p>Library Project</p>
                 <div class="img__item" data-card_id="5">
                   <img src="./assets/library.png">
-                </div>
-              </div>
-              <div class="img__item-container">
-                <p>Store</p>
-                <div class="img__item" data-card_id="6">
-                  <img src="./assets/store.png">
                 </div>
               </div>
             </div>
