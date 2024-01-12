@@ -15,7 +15,7 @@
     },
     {
         "name": "Virtual Keyboard",
-        "description": "Виртуальные клавиатура на чистом javascript",
+        "description": "Виртуальная клавиатура на чистом javascript.",
         "img": "./assets/keyboard.png",
         "link": "https://repkoo.github.io/virtual-keyboard/",
         "id": 3
@@ -29,7 +29,7 @@
     },
     {
         "name": "Library Project",
-        "description": "Лендинг с поддержкой responsive дизайна",
+        "description": "Лендинг с поддержкой responsive дизайна.",
         "img": "./assets/library.png",
         "link": "https://repkoo.github.io/library/library/",
         "id": 5
