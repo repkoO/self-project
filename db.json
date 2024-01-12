@@ -7,13 +7,6 @@
         "id": 6
     },
     {
-        "name": "CSS Bayan",
-        "description": "Базовый проект по разработке выпадающего меню без javascript.",
-        "img": "./assets/bayan.png",
-        "link": "https://repkoo.github.io/cssBayan/cssBayan/",
-        "id": 1
-    },
-    {
         "name": "Coffee Project",
         "description": "Проект двухстраничного лендинг сайта с поддержкой responsive дизайна и чистым javascript функционалом.",
         "img": "./assets/coffee.png",
@@ -40,5 +33,12 @@
         "img": "./assets/library.png",
         "link": "https://repkoo.github.io/library/library/",
         "id": 5
+    },
+    {
+        "name": "CSS Bayan",
+        "description": "Базовый проект по разработке выпадающего меню без javascript.",
+        "img": "./assets/bayan.png",
+        "link": "https://repkoo.github.io/cssBayan/cssBayan/",
+        "id": 1
     }
 ]

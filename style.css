@@ -81,7 +81,6 @@ span,
   color: inherit;
   font-family: 'Radiate';
   text-decoration: none;
-  padding-bottom: 5px;
 }
 
 .link__project:hover {
@@ -119,14 +118,11 @@ span {
 }
 
 main {
-  margin: 15px;
+  padding: 25px 15px 0 15px;
   padding-bottom: 5px;
   min-height: calc(100vh - 50px);
-}
-
-
-.project__section {
-  margin-top: 15px;
+  background-color: white;
+  transition: 3s ease;
 }
 
 .contacts-ul {
@@ -172,6 +168,7 @@ main {
 
 .img__item-container p {
   transition: 0.3s ease-in;
+  color: black;
 }
 
 .img__item-container:hover p {
