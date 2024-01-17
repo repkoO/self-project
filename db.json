@@ -7,6 +7,13 @@
         "id": 6
     },
     {
+        "name": "Hangman",
+        "description": "Классическая игра Hangman на javascript.",
+        "img": "./assets/hangman.png",
+        "link": "https://repkoo.github.io/hangman/hangman/",
+        "id": 7
+    },
+    {
         "name": "Coffee Project",
         "description": "Проект двухстраничного лендинг сайта с поддержкой responsive дизайна и чистым javascript функционалом.",
         "img": "./assets/coffee.png",
