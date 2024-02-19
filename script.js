@@ -16,7 +16,7 @@ const generateModalWindow = (item) =>`<div class="modal__container">
       <p>${item.description}</p>
     </div>
     <div class="modal__link">
-        <a href="${item.link}">Ссылка на проект</a>
+        <a href="${item.link}" target="_blank">Ссылка на проект</a>
     </div>
   </div>
 </div>`
