@@ -37,7 +37,6 @@ h2 {
 
 
 body {
-  max-width: 1440px;
   margin: 0 auto;
   background-color: #000000;
 }
@@ -209,8 +208,6 @@ main {
     grid-template-columns: repeat(2, 1fr);
     gap: 0;
   }
-
-
 }
 
 /* MODAL */
@@ -308,6 +305,11 @@ main {
 .modal__link:hover a {
   color: red;
   transition: 0.7s ease;
+}
+
+.modal__close {
+  padding: 5px 5px 0 0;
+  align-self: end;
 }
 
 .close__svg {
