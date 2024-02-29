@@ -1,5 +1,12 @@
 [
     {
+        "name": "GitHub Search",
+        "description": "Проект на typescript в связке с React + Redux Toolkit Query по поиску и добавлению репозиториев в избранное.",
+        "img": "./assets/rtk.png",
+        "link": "https://react-redux-ts-repkoo.netlify.app",
+        "id": 8
+    },
+    {
         "name": "Store",
         "description": "Основной проект на React с использованием Redux, Formik, Yup и основными хуками библиотеки.",
         "img": "./assets/store.png",
